@@ -1,6 +1,6 @@
 ### "Olá pessoal!" \o/ 👋
 
-My name is Amanda Gundes, and I am from Brazil (🇧🇷). I am a management engineer and I have been working as a Business Analyst since the beggining of 2018. Now I want to change my career and became a Full Stack Developer :)
+My name is Amanda Gundes, and I am from Brazil (🇧🇷). I am a management engineer and I have been working as a Business Analyst since the beggining of 2018. Now I am changing my career and became a Full Stack Developer :)
 
 Would you like to find me?
 
