@@ -1,4 +1,10 @@
-### Hi there 👋
+### "Olá pessoal!" \o/ 👋
+
+My name is Amanda Gundes, and I am from Brazil (🇧🇷). I am a management engineer and I have been working as a Business Analyst since the beggining of 2018. Now I want to change my career and became a Full Stack Developer :)
+
+Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-gundes-de-almeida-72a95158/)](https://www.linkedin.com/in/amanda-gundes-de-almeida-72a95158/)
 
 <!--
 **AmandaGundes/AmandaGundes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
