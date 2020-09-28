@@ -1,6 +1,6 @@
 ### "Olá pessoal!" \o/ 👋
 
-My name is Amanda Gundes, and I am from Brazil (🇧🇷). I have an engineering degree which made me learn and understand the best way to link numbers and strategies. I have been working as a Business Analyst since the beggining of 2018 abd now I am changing my career to become a Full Stack Developer :)
+My name is Amanda Gundes, and I am from Brazil (🇧🇷). I have an engineering degree which made me learn and understand the best way to link numbers and strategies. I have been working as a Business Analyst since the beggining of 2018 and now I am changing my career to become a Full Stack Developer :)
 
 Would you like to find me?
 
